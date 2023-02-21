@@ -1,0 +1,22 @@
+{
+    "1676946025328864:79234": {
+        "IResourceController": {
+            "name": "Scripts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1676946025328989:79235",
+            "resources": [
+                "1676946025324403:79221"
+            ]
+        }
+    },
+    "1676946025328989:79235": {
+        "IResourceController": {
+            "public": {
+                "path": "Custom Hint Resources/Scripts"
+            }
+        }
+    }
+}

@@ -79,9 +79,10 @@
                 "unrecognizedMaterials": ""
             }
         },
+        "InspectorComponent": "",
         "LayerComponent": {
             "nextLayerId": "2",
-            "showOrthographicLayer": "false",
+            "showOrthographicLayer": "true",
             "layersInfo": [
                 {
                     "layerId": "0",
@@ -111,7 +112,12 @@
     },
     "controller": {
         "AssetImportController": {
-            "itemUidToID": ""
+            "itemUidToID": [
+                {
+                    "k": "1676946025367890:79265",
+                    "v": "2Bf5UA3rDO60d2712Lbbgl"
+                }
+            ]
         },
         "DigitalGoodsController": {
             "digital_goods": ""
