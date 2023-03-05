@@ -1,0 +1,39 @@
+{
+    "1677382385983067:523711": {
+        "IFileManager": {
+            "path": "Files/File_1677382385983067_523711"
+        }
+    },
+    "1677382385983978:523712": {
+        "IResourceController": {
+            "name": "gold",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1677382385983984:523713",
+            "fileId": "1677382385983067:523711",
+            "originalId": "1677382386025095:523719",
+            "publicId": "1677382386367402:523851",
+            "expected_hash": "e51923b26813f1f69f32fd21f347c250"
+        },
+        "IResourceManager": {
+            "uid": "1677382385983984:523713",
+            "name": "Files/File_1677382385983067_523711",
+            "flags": 1
+        }
+    },
+    "1677382386025095:523719": {
+        "IFileManager": {
+            "path": "Files/File_1677382386025095_523719.lsmat"
+        }
+    },
+    "1677382386367402:523851": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/ring p4/Materials/gold.lsmat",
+                "hash": "b82e8a600b4480dfceacc8b8b1ff9c14"
+            }
+        }
+    }
+}

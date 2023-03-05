@@ -1,0 +1,42 @@
+{
+    "1675109059699426:1568": {
+        "IResourceController": {
+            "name": "FrogHand",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1626479747537377:115366",
+            "fileId": "1675109059699458:1621",
+            "originalId": "1675109059699459:1622",
+            "publicId": "1675109059699531:1705",
+            "expected_hash": "29cde89c7f49c7f64deb1a4c8502f69d",
+            "additional": {
+                "originHash": "12d0319a9fcd815a7459d84e069d219b"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1626479747537377:115366",
+            "name": "Files/File282.png",
+            "flags": 1
+        }
+    },
+    "1675109059699458:1621": {
+        "IFileManager": {
+            "path": "Files/File_1675109059699458_1621.pvr"
+        }
+    },
+    "1675109059699459:1622": {
+        "IFileManager": {
+            "path": "Files/File_1675109059699459_1622.png"
+        }
+    },
+    "1675109059699531:1705": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/FrogHand.png",
+                "hash": "12d0319a9fcd815a7459d84e069d219b"
+            }
+        }
+    }
+}

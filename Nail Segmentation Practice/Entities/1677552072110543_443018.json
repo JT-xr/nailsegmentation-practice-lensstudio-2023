@@ -1,0 +1,79 @@
+{
+    "1677552072109796:443017": {
+        "IFileManager": {
+            "path": "Files/File_1677552072109796_443017.pvr"
+        }
+    },
+    "1677552072110543:443018": {
+        "IResourceController": {
+            "name": "smoke_realistics",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1677552072110775:443019",
+            "fileId": "1677552072109796:443017",
+            "originalId": "1677552072111013:443024",
+            "publicId": "1677552072117219:443037",
+            "expected_hash": "a6b9ae2fea31c4ba063fa7420c3f5dfa",
+            "additional": {
+                "originHash": "23a4819ca6a656eacc8b1cf9170f4c3b"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1677552072110775:443019",
+            "name": "Files/File_1677552072109796_443017.jpg",
+            "flags": 1
+        }
+    },
+    "1677552072110775:443019": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "23a4819ca6a656eacc8b1cf9170f4c3b"
+                    },
+                    "v": "1677552073178223:443332"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "8192",
+                "compressedSize": "8085",
+                "extension": "png",
+                "originalRAM": "65536",
+                "originalSize": "7290",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1677552072115183:443036"
+        }
+    },
+    "1677552072111013:443024": {
+        "IFileManager": {
+            "path": "Files/File_1677552072111013_443024.png"
+        }
+    },
+    "1677552072115183:443036": {
+        "IFileManager": {
+            "path": "Files/File_1677552072115183_443036.png"
+        }
+    },
+    "1677552072117219:443037": {
+        "IResourceController": {
+            "public": {
+                "path": "Smoke VFX Resources/Textures/smoke_realistics.png",
+                "hash": "23a4819ca6a656eacc8b1cf9170f4c3b"
+            }
+        }
+    },
+    "1677552073178223:443332": {
+        "IFileManager": {
+            "path": "Files/File_1677552073178223_443332.pvr"
+        }
+    }
+}

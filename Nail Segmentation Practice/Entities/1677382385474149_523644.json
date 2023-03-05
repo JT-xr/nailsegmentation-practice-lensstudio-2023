@@ -1,0 +1,23 @@
+{
+    "1677382385474149:523644": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1677382386366258:523849",
+            "resources": [
+                "1677382385475256:523648",
+                "1677382385983978:523712"
+            ]
+        }
+    },
+    "1677382386366258:523849": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/ring p4/Materials"
+            }
+        }
+    }
+}

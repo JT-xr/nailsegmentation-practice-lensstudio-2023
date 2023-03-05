@@ -1,0 +1,42 @@
+{
+    "1677466836340878:673119": {
+        "IFileManager": {
+            "path": "Files/File_1677466836340878_673119"
+        }
+    },
+    "1677466836341931:673120": {
+        "IResourceController": {
+            "name": "sparkles_vfx",
+            "type": 23,
+            "subtype": 0,
+            "dependency": 2,
+            "hidden": false,
+            "uid": "1677466836341941:673121",
+            "fileId": "1677466836340878:673119",
+            "originalId": "1677466836387168:673128",
+            "publicId": "1677466836388788:673131",
+            "expected_hash": "966e9dffa5a342ec9b9aeafc1f5f6fef",
+            "resources": [
+                "1677551898524743:395275"
+            ]
+        },
+        "IResourceManager": {
+            "uid": "1677466836341941:673121",
+            "name": "Files/File_1677466836340878_673119",
+            "flags": 1
+        }
+    },
+    "1677466836387168:673128": {
+        "IFileManager": {
+            "path": "Files/File_1677466836387168_673128.lsvfx"
+        }
+    },
+    "1677466836388788:673131": {
+        "IResourceController": {
+            "public": {
+                "path": "Sparkles VFX Resources/VFX/sparkles_vfx.lsvfx",
+                "hash": "ef8570c0e3dca55885b861ecbf1b447b"
+            }
+        }
+    }
+}

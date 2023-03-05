@@ -1,0 +1,23 @@
+{
+    "1677380686702922:370544": {
+        "IResourceController": {
+            "name": "RenderTarget",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1677380686703035:370545",
+            "resources": [
+                "1677380686702274:370534",
+                "1677380686703477:370547"
+            ]
+        }
+    },
+    "1677380686703035:370545": {
+        "IResourceController": {
+            "public": {
+                "path": "NailsTryOnResources/RenderTarget"
+            }
+        }
+    }
+}

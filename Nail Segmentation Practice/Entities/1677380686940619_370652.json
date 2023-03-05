@@ -1,0 +1,39 @@
+{
+    "1677380686939669:370651": {
+        "IFileManager": {
+            "path": "Files/File_1677380686939669_370651"
+        }
+    },
+    "1677380686940619:370652": {
+        "IResourceController": {
+            "name": "GPU_hearts",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1677380686940624:370653",
+            "fileId": "1677380686939669:370651",
+            "originalId": "1677380686972657:370659",
+            "publicId": "1677380687049677:370672",
+            "expected_hash": "f73d266a233e964613d06cabb8520ec8"
+        },
+        "IResourceManager": {
+            "uid": "1677380686940624:370653",
+            "name": "Files/File_1677380686939669_370651",
+            "flags": 1
+        }
+    },
+    "1677380686972657:370659": {
+        "IFileManager": {
+            "path": "Files/File_1677380686972657_370659.lsmat"
+        }
+    },
+    "1677380687049677:370672": {
+        "IResourceController": {
+            "public": {
+                "path": "NailsTryOnResources/Materials/VFX Resources/Particles 2/GPU_hearts.lsmat",
+                "hash": "4d1ac273c744e8221c9baf26b6e70eb8"
+            }
+        }
+    }
+}

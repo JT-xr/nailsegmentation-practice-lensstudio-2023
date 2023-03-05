@@ -1,0 +1,39 @@
+{
+    "1677380687695913:370834": {
+        "IFileManager": {
+            "path": "Files/File_1677380687695913_370834"
+        }
+    },
+    "1677380687696678:370835": {
+        "IResourceController": {
+            "name": "GPU_stripes",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1677380687696682:370836",
+            "fileId": "1677380687695913:370834",
+            "originalId": "1677380687726271:370842",
+            "publicId": "1677380687801303:370849",
+            "expected_hash": "f73d266a233e964613d06cabb8520ec8"
+        },
+        "IResourceManager": {
+            "uid": "1677380687696682:370836",
+            "name": "Files/File_1677380687695913_370834",
+            "flags": 1
+        }
+    },
+    "1677380687726271:370842": {
+        "IFileManager": {
+            "path": "Files/File_1677380687726271_370842.lsmat"
+        }
+    },
+    "1677380687801303:370849": {
+        "IResourceController": {
+            "public": {
+                "path": "NailsTryOnResources/Materials/VFX Resources/Particles 2/GPU_stripes.lsmat",
+                "hash": "9c924793c6ab01e17731948be6438f92"
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1675109059699528:1690": {
+        "IResourceController": {
+            "public": {
+                "path": "Models/pole"
+            }
+        }
+    },
+    "1675109059699576:1875": {
+        "IResourceController": {
+            "name": "pole",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675109059699528:1690",
+            "resources": [
+                "1675109059699575:1874"
+            ]
+        }
+    }
+}

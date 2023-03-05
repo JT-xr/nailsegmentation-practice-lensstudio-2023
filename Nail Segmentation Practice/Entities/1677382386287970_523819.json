@@ -1,0 +1,30 @@
+{
+    "1677382386287970:523819": {
+        "IResourceController": {
+            "name": "ring p4",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1677382386287862:523790",
+            "fileId": "1677382386322190:523840",
+            "originalId": "1677382917219880:583595",
+            "expected_hash": "62e8b40f4dac3dca7d9d1de72d647c0a"
+        },
+        "IResourceManager": {
+            "uid": "1677382386287862:523790",
+            "name": "ring p4",
+            "flags": 0
+        }
+    },
+    "1677382386322190:523840": {
+        "IFileManager": {
+            "path": "Files/File_1677382386322190_523840.oprfb"
+        }
+    },
+    "1677382917219880:583595": {
+        "IFileManager": {
+            "path": "Files/File_1677382917219880_583595.oprfb"
+        }
+    }
+}

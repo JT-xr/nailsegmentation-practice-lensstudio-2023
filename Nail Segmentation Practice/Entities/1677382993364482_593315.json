@@ -1,0 +1,115 @@
+{
+    "1677382993363426:593314": {
+        "IFileManager": {
+            "path": "Files/File_1677382993363426_593314.mesh"
+        }
+    },
+    "1677382993364482:593315": {
+        "IResourceController": {
+            "name": "Cylinder",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1677382993392532:593317",
+            "fileId": "1677382993363426:593314",
+            "publicId": "1677382993396311:593331",
+            "expected_hash": "e1e18c625f15a1bc19836065573f1ff9",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1677382993392532:593317",
+            "name": "Files/File_1677382993363426_593314.mesh",
+            "flags": 1
+        }
+    },
+    "1677382993392532:593317": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "6672",
+                "compressedSize": "2479",
+                "extension": "mesh",
+                "originalRAM": "6672",
+                "originalSize": "2479",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1677382993394457:593328"
+        }
+    },
+    "1677382993394457:593328": {
+        "IFileManager": {
+            "path": "Files/File_1677382993394457_593328.mesh"
+        }
+    },
+    "1677382993396311:593331": {
+        "IResourceController": {
+            "public": {
+                "path": "Cylinder.mesh",
+                "hash": "e1e18c625f15a1bc19836065573f1ff9"
+            }
+        }
+    }
+}

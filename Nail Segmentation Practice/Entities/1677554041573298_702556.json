@@ -1,0 +1,39 @@
+{
+    "1677554041572630:702555": {
+        "IFileManager": {
+            "path": "Files/File_1677554041572630_702555"
+        }
+    },
+    "1677554041573298:702556": {
+        "IResourceController": {
+            "name": "Frost",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1677554041573301:702557",
+            "fileId": "1677554041572630:702555",
+            "originalId": "1677554041603926:702561",
+            "publicId": "1677554041855274:702614",
+            "expected_hash": "563f3bee486d113a70869767ec21a20c"
+        },
+        "IResourceManager": {
+            "uid": "1677554041573301:702557",
+            "name": "Files/File_1677554041572630_702555",
+            "flags": 1
+        }
+    },
+    "1677554041603926:702561": {
+        "IFileManager": {
+            "path": "Files/File_1677554041603926_702561.lsmat"
+        }
+    },
+    "1677554041855274:702614": {
+        "IResourceController": {
+            "public": {
+                "path": "Frost.lsmat",
+                "hash": "c1d965cfff84ad4cc7974d1068d51b8e"
+            }
+        }
+    }
+}

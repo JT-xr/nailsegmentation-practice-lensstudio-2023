@@ -1,0 +1,80 @@
+{
+    "1677380686715586:370598": {
+        "IFileManager": {
+            "path": "Files/File_1677380686715586_370598.jpg"
+        }
+    },
+    "1677380686716279:370599": {
+        "IResourceController": {
+            "name": "atlas_02",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1677380686716353:370600",
+            "fileId": "1677380686715586:370598",
+            "originalId": "1677380686716543:370605",
+            "publicId": "1677380686722037:370612",
+            "expected_hash": "1bf3275a896930357c4550d0325df4e2",
+            "additional": {
+                "originHash": "c503185916ba7b47fc0ee9e007da1ea1",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1677380686716353:370600",
+            "name": "Files/File_1677380686715586_370598.jpg",
+            "flags": 1
+        }
+    },
+    "1677380686716353:370600": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2048",
+                        "uncompressed_hash": "c503185916ba7b47fc0ee9e007da1ea1"
+                    },
+                    "v": "1677380693152599:372054"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "65536",
+                "compressedSize": "1927",
+                "extension": "jpg",
+                "originalRAM": "65536",
+                "originalSize": "4028",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1677380686720356:370611"
+        }
+    },
+    "1677380686716543:370605": {
+        "IFileManager": {
+            "path": "Files/File_1677380686716543_370605.jpg"
+        }
+    },
+    "1677380686720356:370611": {
+        "IFileManager": {
+            "path": "Files/File_1677380686720356_370611.jpg"
+        }
+    },
+    "1677380686722037:370612": {
+        "IResourceController": {
+            "public": {
+                "path": "NailsTryOnResources/Textures/atlas_02.jpg",
+                "hash": "c503185916ba7b47fc0ee9e007da1ea1"
+            }
+        }
+    },
+    "1677380693152599:372054": {
+        "IFileManager": {
+            "path": "Files/File_1677380693152599_372054.jpg"
+        }
+    }
+}

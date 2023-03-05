@@ -1,0 +1,39 @@
+{
+    "1677380688230959:370926": {
+        "IFileManager": {
+            "path": "Files/File_1677380688230959_370926"
+        }
+    },
+    "1677380688231719:370930": {
+        "IResourceController": {
+            "name": "NailsTryOn",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1677380688231721:370932",
+            "fileId": "1677380688230959:370926",
+            "originalId": "1677380688260541:371013",
+            "publicId": "1677380688313118:371020",
+            "expected_hash": "3c55ddbd7f96e5740861ea7939204b55"
+        },
+        "IResourceManager": {
+            "uid": "1677380688231721:370932",
+            "name": "Files/File_1677380688230959_370926",
+            "flags": 1
+        }
+    },
+    "1677380688260541:371013": {
+        "IFileManager": {
+            "path": "Files/File_1677380688260541_371013.lsmat"
+        }
+    },
+    "1677380688313118:371020": {
+        "IResourceController": {
+            "public": {
+                "path": "NailsTryOnResources/Materials/NailsTryOn.lsmat",
+                "hash": "143c0d8b66b4787c3a5aeb0a5d14961a"
+            }
+        }
+    }
+}

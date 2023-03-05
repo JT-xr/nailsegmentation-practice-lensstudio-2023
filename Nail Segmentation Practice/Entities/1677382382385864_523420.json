@@ -1,0 +1,54 @@
+{
+    "1677382382385864:523420": {
+        "IResourceController": {
+            "name": "ring p4",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1677382386326990:523841",
+            "publicId": "1677382386364456:523848",
+            "expected_hash": "b38839b642bb83e72fdd6b20d6b5abb6",
+            "resources": [
+                "1677382385407073:523612",
+                "1677382385474149:523644",
+                "1677382386287970:523819"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "black",
+                        "v": "1677382385475260:523649"
+                    },
+                    {
+                        "k": "gold",
+                        "v": "1677382385983984:523713"
+                    }
+                ]
+            }
+        }
+    },
+    "1677382386326990:523841": {
+        "IFileManager": {
+            "path": "Files/File_1677382386326990_523841.fbx"
+        }
+    },
+    "1677382386364456:523848": {
+        "IResourceController": {
+            "public": {
+                "path": "ring p4.fbx",
+                "hash": "b38839b642bb83e72fdd6b20d6b5abb6"
+            }
+        }
+    }
+}

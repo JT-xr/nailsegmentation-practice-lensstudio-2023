@@ -1,0 +1,33 @@
+{
+    "1677380686698732:370520": {
+        "IFileManager": {
+            "path": "Files/File_1677380686698732_370520.js"
+        }
+    },
+    "1677380686699657:370521": {
+        "IResourceController": {
+            "name": "RenderOrderFixer",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1677380686699672:370522",
+            "fileId": "1677380686698732:370520",
+            "publicId": "1677380686701555:370532",
+            "expected_hash": "5ba5ca779dc5d743d617f6112c4c5262"
+        },
+        "IResourceManager": {
+            "uid": "1677380686699672:370522",
+            "name": "Files/File_1677380686698732_370520.js",
+            "flags": 1
+        }
+    },
+    "1677380686701555:370532": {
+        "IResourceController": {
+            "public": {
+                "path": "RenderOrderFixer.js",
+                "hash": "5ba5ca779dc5d743d617f6112c4c5262"
+            }
+        }
+    }
+}

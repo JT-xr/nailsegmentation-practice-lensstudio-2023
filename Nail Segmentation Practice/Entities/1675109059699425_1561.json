@@ -1,0 +1,33 @@
+{
+    "1675109059699425:1561": {
+        "IResourceController": {
+            "name": "Righteous-Regular",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1626214448484751:7784",
+            "fileId": "1675109059699442:1604",
+            "publicId": "1675109059699529:1695",
+            "expected_hash": "77fa00996ecb4104c7880b8749c7c4e0"
+        },
+        "IResourceManager": {
+            "uid": "1626214448484751:7784",
+            "name": "Files/File_1675109059699442_1604.ttf",
+            "flags": 1
+        }
+    },
+    "1675109059699442:1604": {
+        "IFileManager": {
+            "path": "Files/File_1675109059699442_1604.ttf"
+        }
+    },
+    "1675109059699529:1695": {
+        "IResourceController": {
+            "public": {
+                "path": "Fonts/Righteous-Regular.ttf",
+                "hash": "77fa00996ecb4104c7880b8749c7c4e0"
+            }
+        }
+    }
+}

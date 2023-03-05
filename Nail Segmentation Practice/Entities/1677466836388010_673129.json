@@ -1,0 +1,22 @@
+{
+    "1677466836388010:673129": {
+        "IResourceController": {
+            "name": "VFX",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1677466836388223:673130",
+            "resources": [
+                "1677466836341931:673120"
+            ]
+        }
+    },
+    "1677466836388223:673130": {
+        "IResourceController": {
+            "public": {
+                "path": "Sparkles VFX Resources/VFX"
+            }
+        }
+    }
+}

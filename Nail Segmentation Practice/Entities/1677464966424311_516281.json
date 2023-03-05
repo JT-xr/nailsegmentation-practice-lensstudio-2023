@@ -1,0 +1,79 @@
+{
+    "1677464966423425:516280": {
+        "IFileManager": {
+            "path": "Files/File_1677464966423425_516280.pvr"
+        }
+    },
+    "1677464966424311:516281": {
+        "IResourceController": {
+            "name": "Designer",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1677464966425410:516282",
+            "fileId": "1677464966423425:516280",
+            "originalId": "1677464966425958:516287",
+            "publicId": "1677464966450968:516289",
+            "expected_hash": "499f0dfb0090bf1145e1b8fdabb5a7a4",
+            "additional": {
+                "originHash": "2beeefb3941c29a7aff0c4e35920417c"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1677464966425410:516282",
+            "name": "Files/File_1677464966423425_516280.png",
+            "flags": 1
+        }
+    },
+    "1677464966425410:516282": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "2beeefb3941c29a7aff0c4e35920417c"
+                    },
+                    "v": "1677464970708453:518021"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "115660",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "564926",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1677464966435134:516288"
+        }
+    },
+    "1677464966425958:516287": {
+        "IFileManager": {
+            "path": "Files/File_1677464966425958_516287.png"
+        }
+    },
+    "1677464966435134:516288": {
+        "IFileManager": {
+            "path": "Files/File_1677464966435134_516288.png"
+        }
+    },
+    "1677464966450968:516289": {
+        "IResourceController": {
+            "public": {
+                "path": "NailsTryOnResources/Textures/Designer.png",
+                "hash": "2beeefb3941c29a7aff0c4e35920417c"
+            }
+        }
+    },
+    "1677464970708453:518021": {
+        "IFileManager": {
+            "path": "Files/File_1677464970708453_518021.pvr"
+        }
+    }
+}

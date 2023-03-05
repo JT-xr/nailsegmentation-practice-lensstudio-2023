@@ -1,0 +1,23 @@
+{
+    "1677380687048817:370668": {
+        "IResourceController": {
+            "name": "VFX Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1677380687048940:370669",
+            "resources": [
+                "1677380687049139:370670",
+                "1677380687815326:370851"
+            ]
+        }
+    },
+    "1677380687048940:370669": {
+        "IResourceController": {
+            "public": {
+                "path": "NailsTryOnResources/Materials/VFX Resources"
+            }
+        }
+    }
+}

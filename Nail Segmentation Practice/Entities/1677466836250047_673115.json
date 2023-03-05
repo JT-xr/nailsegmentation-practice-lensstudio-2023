@@ -1,0 +1,22 @@
+{
+    "1677466836250047:673115": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1677466836250172:673116",
+            "resources": [
+                "1677466836245698:673101"
+            ]
+        }
+    },
+    "1677466836250172:673116": {
+        "IResourceController": {
+            "public": {
+                "path": "Sparkles VFX Resources/Textures"
+            }
+        }
+    }
+}

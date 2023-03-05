@@ -1,0 +1,39 @@
+{
+    "1677382992138258:592612": {
+        "IResourceController": {
+            "name": "PrimitivePack__PLACE_IN_OBJECTS_PANEL",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1677382992138227:592609",
+            "fileId": "1677382992168988:592618",
+            "originalId": "1677383388674176:641615",
+            "publicId": "1677382993712387:593885",
+            "expected_hash": "a4432e17443eafe6d64b698726b8ce32"
+        },
+        "IResourceManager": {
+            "uid": "1677382992138227:592609",
+            "name": "sceneObject_26",
+            "flags": 0
+        }
+    },
+    "1677382992168988:592618": {
+        "IFileManager": {
+            "path": "Files/File_1677382992168988_592618.oprfb"
+        }
+    },
+    "1677382993712387:593885": {
+        "IResourceController": {
+            "public": {
+                "path": "PrimitivePack__PLACE_IN_OBJECTS_PANEL.oprfb",
+                "hash": "12c01ab16db83313c0699f8597a23770"
+            }
+        }
+    },
+    "1677383388674176:641615": {
+        "IFileManager": {
+            "path": "Files/File_1677383388674176_641615.oprfb"
+        }
+    }
+}

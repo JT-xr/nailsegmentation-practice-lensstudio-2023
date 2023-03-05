@@ -1,0 +1,90 @@
+{
+    "1630538668528890:160901": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "178812",
+                "compressedSize": "134410",
+                "extension": "mesh",
+                "originalRAM": "178812",
+                "originalSize": "134410",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "boneData"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1675109059699511:1678"
+        }
+    },
+    "1675109059699427:1585": {
+        "IResourceController": {
+            "name": "RightHandMesh",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1630538668528890:160901",
+            "fileId": "1675109059699492:1658",
+            "originalId": "1675109059699493:1659",
+            "expected_hash": "f8d8a42fd3c03af10ae1df2cb901efa4"
+        },
+        "IResourceManager": {
+            "uid": "1630538668528890:160901",
+            "name": "Files/File_1675109059699492_1658.mesh",
+            "flags": 1
+        }
+    },
+    "1675109059699492:1658": {
+        "IFileManager": {
+            "path": "Files/File_1675109059699492_1658.mesh"
+        }
+    },
+    "1675109059699493:1659": {
+        "IFileManager": {
+            "path": "Files/File_1675109059699493_1659.mesh"
+        }
+    },
+    "1675109059699511:1678": {
+        "IFileManager": {
+            "path": "Files/File_1675109059699511_1678.mesh"
+        }
+    }
+}

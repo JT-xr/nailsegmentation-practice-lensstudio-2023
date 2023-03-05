@@ -1,0 +1,33 @@
+{
+    "1675109059699426:1569": {
+        "IResourceController": {
+            "name": "HandSkeletonController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1626997987710946:137070",
+            "fileId": "1675109059699461:1625",
+            "publicId": "1675109059699531:1706",
+            "expected_hash": "5f4e9be0d66ed941dc7eb87ddf7ea928"
+        },
+        "IResourceManager": {
+            "uid": "1626997987710946:137070",
+            "name": "Files/File_1675109059699461_1625.js",
+            "flags": 1
+        }
+    },
+    "1675109059699461:1625": {
+        "IFileManager": {
+            "path": "Files/File_1675109059699461_1625.js"
+        }
+    },
+    "1675109059699531:1706": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/HandSkeletonController.js",
+                "hash": "5f4e9be0d66ed941dc7eb87ddf7ea928"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1677380687413057:370814": {
+        "IFileManager": {
+            "path": "Files/File_1677380687413057_370814"
+        }
+    },
+    "1677380687414000:370815": {
+        "IResourceController": {
+            "name": "GPU_bokeh",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1677380687414004:370816",
+            "fileId": "1677380687413057:370814",
+            "originalId": "1677380687443779:370822",
+            "publicId": "1677380687592337:370829",
+            "expected_hash": "f73d266a233e964613d06cabb8520ec8"
+        },
+        "IResourceManager": {
+            "uid": "1677380687414004:370816",
+            "name": "Files/File_1677380687413057_370814",
+            "flags": 1
+        }
+    },
+    "1677380687443779:370822": {
+        "IFileManager": {
+            "path": "Files/File_1677380687443779_370822.lsmat"
+        }
+    },
+    "1677380687592337:370829": {
+        "IResourceController": {
+            "public": {
+                "path": "NailsTryOnResources/Materials/VFX Resources/Particles 2/GPU_bokeh.lsmat",
+                "hash": "110a4e886423951d1d801ef148ee5903"
+            }
+        }
+    }
+}

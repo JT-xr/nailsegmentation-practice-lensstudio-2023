@@ -1,0 +1,39 @@
+{
+    "1677382385474394:523647": {
+        "IFileManager": {
+            "path": "Files/File_1677382385474394_523647"
+        }
+    },
+    "1677382385475256:523648": {
+        "IResourceController": {
+            "name": "black",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1677382385475260:523649",
+            "fileId": "1677382385474394:523647",
+            "originalId": "1677382385506468:523653",
+            "publicId": "1677382386366576:523850",
+            "expected_hash": "e51923b26813f1f69f32fd21f347c250"
+        },
+        "IResourceManager": {
+            "uid": "1677382385475260:523649",
+            "name": "Files/File_1677382385474394_523647",
+            "flags": 1
+        }
+    },
+    "1677382385506468:523653": {
+        "IFileManager": {
+            "path": "Files/File_1677382385506468_523653.lsmat"
+        }
+    },
+    "1677382386366576:523850": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/ring p4/Materials/black.lsmat",
+                "hash": "382199deb1a92b9c32f110e0e7637901"
+            }
+        }
+    }
+}

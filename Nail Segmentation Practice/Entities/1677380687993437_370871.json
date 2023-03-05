@@ -1,0 +1,39 @@
+{
+    "1677380687992664:370870": {
+        "IFileManager": {
+            "path": "Files/File_1677380687992664_370870"
+        }
+    },
+    "1677380687993437:370871": {
+        "IResourceController": {
+            "name": "NailTiles",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1677380687993442:370872",
+            "fileId": "1677380687992664:370870",
+            "originalId": "1677380688098704:370878",
+            "publicId": "1677380688153193:370885",
+            "expected_hash": "8b4316657de22b085a8f9e5ee56d72d7"
+        },
+        "IResourceManager": {
+            "uid": "1677380687993442:370872",
+            "name": "Files/File_1677380687992664_370870",
+            "flags": 1
+        }
+    },
+    "1677380688098704:370878": {
+        "IFileManager": {
+            "path": "Files/File_1677380688098704_370878.lsmat"
+        }
+    },
+    "1677380688153193:370885": {
+        "IResourceController": {
+            "public": {
+                "path": "NailsTryOnResources/Materials/NailTiles.lsmat",
+                "hash": "c3c8edc93c11d6d9a920e4e935efe361"
+            }
+        }
+    }
+}

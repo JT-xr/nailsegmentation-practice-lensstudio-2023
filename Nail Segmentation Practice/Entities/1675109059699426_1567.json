@@ -1,0 +1,79 @@
+{
+    "1626479630258048:95212": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "27168f5adabd15cfc72ed28f523ba644"
+                    },
+                    "v": "1675109059699513:1680"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "5578424",
+                "compressedSize": "90151",
+                "extension": "jpg",
+                "originalRAM": "4194304",
+                "originalSize": "90151",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1675109059699512:1679"
+        }
+    },
+    "1675109059699426:1567": {
+        "IResourceController": {
+            "name": "FrogHand_normal",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1626479630258048:95212",
+            "fileId": "1675109059699454:1617",
+            "originalId": "1675109059699455:1618",
+            "publicId": "1675109059699531:1704",
+            "expected_hash": "27168f5adabd15cfc72ed28f523ba644",
+            "additional": {
+                "originHash": "27168f5adabd15cfc72ed28f523ba644"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1626479630258048:95212",
+            "name": "Files/File_1675109059699454_1617.jpg",
+            "flags": 1
+        }
+    },
+    "1675109059699454:1617": {
+        "IFileManager": {
+            "path": "Files/File_1675109059699454_1617.jpg"
+        }
+    },
+    "1675109059699455:1618": {
+        "IFileManager": {
+            "path": "Files/File_1675109059699455_1618.jpg"
+        }
+    },
+    "1675109059699512:1679": {
+        "IFileManager": {
+            "path": "Files/File_1675109059699512_1679.jpg"
+        }
+    },
+    "1675109059699513:1680": {
+        "IFileManager": {
+            "path": "Files/File_1675109059699513_1680.jpg"
+        }
+    },
+    "1675109059699531:1704": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/FrogHand_normal.jpg",
+                "hash": "27168f5adabd15cfc72ed28f523ba644"
+            }
+        }
+    }
+}

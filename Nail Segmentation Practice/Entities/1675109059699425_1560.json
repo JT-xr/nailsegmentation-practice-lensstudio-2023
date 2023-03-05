@@ -1,0 +1,94 @@
+{
+    "1626214446902929:7402": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "2664",
+                "compressedSize": "1695",
+                "extension": "mesh",
+                "originalRAM": "2664",
+                "originalSize": "1695",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1675109059699506:1672"
+        }
+    },
+    "1675109059699425:1560": {
+        "IResourceController": {
+            "name": "Connector",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1626214446902929:7402",
+            "fileId": "1675109059699440:1602",
+            "originalId": "1675109059699441:1603",
+            "publicId": "1675109059699528:1692",
+            "expected_hash": "4db4d24a75cce292e6dcb2950898e9f1"
+        },
+        "IResourceManager": {
+            "uid": "1626214446902929:7402",
+            "name": "Files/File_1675109059699440_1602.mesh",
+            "flags": 1
+        }
+    },
+    "1675109059699440:1602": {
+        "IFileManager": {
+            "path": "Files/File_1675109059699440_1602.mesh"
+        }
+    },
+    "1675109059699441:1603": {
+        "IFileManager": {
+            "path": "Files/File_1675109059699441_1603.mesh"
+        }
+    },
+    "1675109059699506:1672": {
+        "IFileManager": {
+            "path": "Files/File_1675109059699506_1672.mesh"
+        }
+    },
+    "1675109059699528:1692": {
+        "IResourceController": {
+            "public": {
+                "path": "Models/pole/Meshes/Connector.mesh",
+                "hash": "4db4d24a75cce292e6dcb2950898e9f1"
+            }
+        }
+    }
+}

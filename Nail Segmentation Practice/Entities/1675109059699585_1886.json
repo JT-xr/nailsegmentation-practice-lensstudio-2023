@@ -1,0 +1,40 @@
+{
+    "1675109059699490:1656": {
+        "IFileManager": {
+            "path": "Files/File_1675109059699490_1656.fbx"
+        }
+    },
+    "1675109059699534:1718": {
+        "IResourceController": {
+            "public": {
+                "path": "Models/LeftHandModel.fbx",
+                "hash": "e9d35336d82162c19b6e3009f63275a4"
+            }
+        }
+    },
+    "1675109059699585:1886": {
+        "IResourceController": {
+            "name": "LeftHandModel",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1675109059699490:1656",
+            "publicId": "1675109059699534:1718",
+            "expected_hash": "e9d35336d82162c19b6e3009f63275a4",
+            "resources": [
+                "1675109059699585:1884",
+                "1675109059699585:1885",
+                "1675109059699427:1584"
+            ],
+            "additional": {
+                "materialMapping": [
+                    {
+                        "k": "Default OBJ",
+                        "v": "1630538667117098:155851"
+                    }
+                ]
+            }
+        }
+    }
+}

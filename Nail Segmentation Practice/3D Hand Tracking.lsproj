@@ -1,0 +1,3152 @@
+{
+    "lens_id": "",
+    "document_id": "VISjYjSUFj1TdYh6aiiR",
+    "original_document_id": "VISjYjSUFj1TdYh6aiiR",
+    "version": "31",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "true",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "40",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "40",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "InspectorUiComponent": "",
+        "MapUiComponent": {
+            "mapPinPoints": ""
+        },
+        "Material::UiComponent": "",
+        "MetaInfoUIComponent": {
+            "icon_hash": "e1f53d530e1df2e30afd8b80ec3ad908",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "BLACK",
+            "applicability": "11",
+            "lens_descriptors": "",
+            "sg": "false",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "ObjectTracking3DUIComponent": "",
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "false",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Hand.jpg",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Hand Open Palm.webm",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "ResourceUiComponent": "",
+        "SceneTreeUiComponent": "",
+        "Script::UiComponent": "",
+        "VFX::UiComponent": ""
+    },
+    "model": {
+        "IFileManager": "",
+        "IResourceManager": {
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": "",
+        "LayerComponent": {
+            "nextLayerId": "6",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "3",
+                    "layerName": "NailsEffectMask",
+                    "layerMask": "8",
+                    "colorCode": "0"
+                },
+                {
+                    "layerId": "4",
+                    "layerName": "NailsEffectParticles",
+                    "layerMask": "16",
+                    "colorCode": "1"
+                },
+                {
+                    "layerId": "5",
+                    "layerName": "Liquid Displacement",
+                    "layerMask": "2",
+                    "colorCode": "2"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "RenderOrderComponent": "",
+        "WorldComponent": {
+            "sceneFile": "Scene",
+            "sceneType": "splitScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "AssetImportController": {
+            "itemUidToID": [
+                {
+                    "k": "1677380688547931:371040",
+                    "v": "6MrjWAeHV3zMA0Noj8n4bf"
+                },
+                {
+                    "k": "1677382992138227:592609",
+                    "v": "2ioN7mVdEgcBTcH7UBqjuj"
+                },
+                {
+                    "k": "1677466836153262:673048",
+                    "v": "7uhK2M6DnPZmJM8yKNANu5"
+                },
+                {
+                    "k": "1677466917764483:685359",
+                    "v": "3rtSumRzT86olL7d25ijQB"
+                },
+                {
+                    "k": "1677466954695458:692811",
+                    "v": "6Nfapbtyx2fJDUEuAfzDvG"
+                },
+                {
+                    "k": "1677466963274700:695652",
+                    "v": "3djKkSx97ObtGUESgamokp"
+                },
+                {
+                    "k": "1677552072020653:442965",
+                    "v": "OZpOsUFWBAmgmKaJ6R1HL"
+                },
+                {
+                    "k": "1677552884971127:535691",
+                    "v": "1ISxEjocflj9NYIljeVuSg"
+                },
+                {
+                    "k": "1677553060750231:558414",
+                    "v": "77Kew2SuVZ6DLbJV0HKTqY"
+                },
+                {
+                    "k": "1677553082117297:562835",
+                    "v": "WCeNYWEO2zYOYl08xBqww"
+                },
+                {
+                    "k": "1677553851281868:680875",
+                    "v": "49P82OK5YC0UR00BMW5t6k"
+                },
+                {
+                    "k": "1677554018444617:697392",
+                    "v": "4i5bBPfKKYkbxjo7Ad8KaS"
+                },
+                {
+                    "k": "1677554029905290:699938",
+                    "v": "36Q2ODoZiZVRQGRzqPTfgy"
+                },
+                {
+                    "k": "1677554041573301:702557",
+                    "v": "7AnjExTReJKVx1KtRkpF7w"
+                },
+                {
+                    "k": "1677554075259784:706024",
+                    "v": "6RpkY6ua2Eu0m7m3853CVD"
+                }
+            ]
+        },
+        "Compression::IController": "",
+        "DigitalGoodsController": {
+            "digital_goods": ""
+        },
+        "IResourceController": "",
+        "InspectorController": "",
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1677462407432844:296673",
+                        "v": {
+                            "prefab": "1677382386287862:523790",
+                            "mapping": [
+                                {
+                                    "k": "1677382386274636:523758",
+                                    "v": "1677462407432844:296673"
+                                },
+                                {
+                                    "k": "1677382386279025:523760",
+                                    "v": "1677462407435381:296685"
+                                },
+                                {
+                                    "k": "1677382386281280:523764",
+                                    "v": "1677462407437785:296687"
+                                },
+                                {
+                                    "k": "1677382386283502:523766",
+                                    "v": "1677462407439789:296689"
+                                },
+                                {
+                                    "k": "1677382386284571:523777",
+                                    "v": "1677462407441152:296703"
+                                },
+                                {
+                                    "k": "1677382386286724:523779",
+                                    "v": "1677462407443154:296705"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1677552224563301:454470",
+                        "v": {
+                            "prefab": "1677552072020653:442965",
+                            "mapping": [
+                                {
+                                    "k": "1677552073134088:443300",
+                                    "v": "1677552224563301:454470"
+                                },
+                                {
+                                    "k": "1677552073134110:443301",
+                                    "v": "1677552224565781:454484"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1626207185346361:26006",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1626207185086693:25893"
+                        },
+                        {
+                            "k": [
+                                "Component.Skin"
+                            ],
+                            "v": "1626207185337414:26004"
+                        },
+                        {
+                            "k": [
+                                "MeshObject"
+                            ],
+                            "v": "1626207185099423:25949"
+                        },
+                        {
+                            "k": [
+                                "MeshObject",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1626207185099607:25951"
+                        },
+                        {
+                            "k": [
+                                "Skeleton"
+                            ],
+                            "v": "1626207185094279:25895"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "wrist"
+                            ],
+                            "v": "1626207185094525:25897"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "wrist",
+                                "wrist_to_index"
+                            ],
+                            "v": "1626207185095662:25909"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0"
+                            ],
+                            "v": "1626207185095857:25911"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1"
+                            ],
+                            "v": "1626207185096015:25913"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1",
+                                "index-2"
+                            ],
+                            "v": "1626207185096190:25915"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1",
+                                "index-2",
+                                "index-3"
+                            ],
+                            "v": "1626207185096382:25917"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "wrist",
+                                "wrist_to_mid"
+                            ],
+                            "v": "1626207185096603:25919"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0"
+                            ],
+                            "v": "1626207185096816:25921"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1"
+                            ],
+                            "v": "1626207185097019:25923"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1",
+                                "mid-2"
+                            ],
+                            "v": "1626207185097200:25925"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1",
+                                "mid-2",
+                                "mid-3"
+                            ],
+                            "v": "1626207185097390:25927"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "wrist",
+                                "wrist_to_pinky"
+                            ],
+                            "v": "1626207185098552:25939"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0"
+                            ],
+                            "v": "1626207185098729:25941"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1"
+                            ],
+                            "v": "1626207185098900:25943"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1",
+                                "pinky-2"
+                            ],
+                            "v": "1626207185099067:25945"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1",
+                                "pinky-2",
+                                "pinky-3"
+                            ],
+                            "v": "1626207185099239:25947"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "wrist",
+                                "wrist_to_ring"
+                            ],
+                            "v": "1626207185097570:25929"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0"
+                            ],
+                            "v": "1626207185097783:25931"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1"
+                            ],
+                            "v": "1626207185097950:25933"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1",
+                                "ring-2"
+                            ],
+                            "v": "1626207185098157:25935"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1",
+                                "ring-2",
+                                "ring-3"
+                            ],
+                            "v": "1626207185098360:25937"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "wrist",
+                                "wrist_to_thumb"
+                            ],
+                            "v": "1626207185094727:25899"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0"
+                            ],
+                            "v": "1626207185094929:25901"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1"
+                            ],
+                            "v": "1626207185095129:25903"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1",
+                                "thumb-2"
+                            ],
+                            "v": "1626207185095294:25905"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1",
+                                "thumb-2",
+                                "thumb-3"
+                            ],
+                            "v": "1626207185095463:25907"
+                        }
+                    ]
+                },
+                {
+                    "k": "1626222756003110:24752",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1626222755828885:24629"
+                        },
+                        {
+                            "k": [
+                                "Component.Skin"
+                            ],
+                            "v": "1626222756000234:24750"
+                        },
+                        {
+                            "k": [
+                                "LeftHandMesh"
+                            ],
+                            "v": "1626222755838743:24695"
+                        },
+                        {
+                            "k": [
+                                "LeftHandMesh",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1626222755838954:24697"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig"
+                            ],
+                            "v": "1626222755831424:24631"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist"
+                            ],
+                            "v": "1626222755832017:24633"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_index"
+                            ],
+                            "v": "1626222755833487:24647"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0"
+                            ],
+                            "v": "1626222755833680:24649"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1"
+                            ],
+                            "v": "1626222755833869:24651"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1",
+                                "index-2"
+                            ],
+                            "v": "1626222755834061:24653"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1",
+                                "index-2",
+                                "index-3"
+                            ],
+                            "v": "1626222755834269:24655"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1",
+                                "index-2",
+                                "index-3",
+                                "index-3_end"
+                            ],
+                            "v": "1626222755834470:24657"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_mid"
+                            ],
+                            "v": "1626222755834687:24659"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0"
+                            ],
+                            "v": "1626222755834923:24661"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1"
+                            ],
+                            "v": "1626222755835146:24663"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1",
+                                "mid-2"
+                            ],
+                            "v": "1626222755835372:24665"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1",
+                                "mid-2",
+                                "mid-3"
+                            ],
+                            "v": "1626222755835610:24667"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1",
+                                "mid-2",
+                                "mid-3",
+                                "mid-3_end"
+                            ],
+                            "v": "1626222755835829:24669"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_pinky"
+                            ],
+                            "v": "1626222755837422:24683"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0"
+                            ],
+                            "v": "1626222755837639:24685"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1"
+                            ],
+                            "v": "1626222755837842:24687"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1",
+                                "pinky-2"
+                            ],
+                            "v": "1626222755838072:24689"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1",
+                                "pinky-2",
+                                "pinky-3"
+                            ],
+                            "v": "1626222755838287:24691"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1",
+                                "pinky-2",
+                                "pinky-3",
+                                "pinky-3_end"
+                            ],
+                            "v": "1626222755838518:24693"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_ring"
+                            ],
+                            "v": "1626222755836050:24671"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0"
+                            ],
+                            "v": "1626222755836288:24673"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1"
+                            ],
+                            "v": "1626222755836539:24675"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1",
+                                "ring-2"
+                            ],
+                            "v": "1626222755836759:24677"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1",
+                                "ring-2",
+                                "ring-3"
+                            ],
+                            "v": "1626222755836969:24679"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1",
+                                "ring-2",
+                                "ring-3",
+                                "ring-3_end"
+                            ],
+                            "v": "1626222755837210:24681"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_thumb"
+                            ],
+                            "v": "1626222755832261:24635"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0"
+                            ],
+                            "v": "1626222755832492:24637"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1"
+                            ],
+                            "v": "1626222755832688:24639"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1",
+                                "thumb-2"
+                            ],
+                            "v": "1626222755832879:24641"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1",
+                                "thumb-2",
+                                "thumb-3"
+                            ],
+                            "v": "1626222755833078:24643"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1",
+                                "thumb-2",
+                                "thumb-3",
+                                "thumb-3_end"
+                            ],
+                            "v": "1626222755833276:24645"
+                        }
+                    ]
+                },
+                {
+                    "k": "1626286877613528:33920",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1626286877603170:33848"
+                        },
+                        {
+                            "k": [
+                                "Component.Skin"
+                            ],
+                            "v": "1626286877610804:33918"
+                        },
+                        {
+                            "k": [
+                                "RightHandMesh"
+                            ],
+                            "v": "1626286877609624:33904"
+                        },
+                        {
+                            "k": [
+                                "RightHandMesh",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1626286877609819:33906"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig"
+                            ],
+                            "v": "1626286877604922:33850"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist"
+                            ],
+                            "v": "1626286877605113:33852"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_index"
+                            ],
+                            "v": "1626286877606092:33864"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0"
+                            ],
+                            "v": "1626286877606271:33866"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1"
+                            ],
+                            "v": "1626286877606423:33868"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1",
+                                "index-2"
+                            ],
+                            "v": "1626286877606601:33870"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1",
+                                "index-2",
+                                "index-3"
+                            ],
+                            "v": "1626286877606762:33872"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_mid"
+                            ],
+                            "v": "1626286877606929:33874"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0"
+                            ],
+                            "v": "1626286877607114:33876"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1"
+                            ],
+                            "v": "1626286877607291:33878"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1",
+                                "mid-2"
+                            ],
+                            "v": "1626286877607453:33880"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1",
+                                "mid-2",
+                                "mid-3"
+                            ],
+                            "v": "1626286877607643:33882"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_pinky"
+                            ],
+                            "v": "1626286877608691:33894"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0"
+                            ],
+                            "v": "1626286877608871:33896"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1"
+                            ],
+                            "v": "1626286877609066:33898"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1",
+                                "pinky-2"
+                            ],
+                            "v": "1626286877609251:33900"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1",
+                                "pinky-2",
+                                "pinky-3"
+                            ],
+                            "v": "1626286877609424:33902"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_ring"
+                            ],
+                            "v": "1626286877607819:33884"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0"
+                            ],
+                            "v": "1626286877607993:33886"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1"
+                            ],
+                            "v": "1626286877608160:33888"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1",
+                                "ring-2"
+                            ],
+                            "v": "1626286877608337:33890"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1",
+                                "ring-2",
+                                "ring-3"
+                            ],
+                            "v": "1626286877608493:33892"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_thumb"
+                            ],
+                            "v": "1626286877605275:33854"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0"
+                            ],
+                            "v": "1626286877605430:33856"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1"
+                            ],
+                            "v": "1626286877605605:33858"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1",
+                                "thumb-2"
+                            ],
+                            "v": "1626286877605767:33860"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1",
+                                "thumb-2",
+                                "thumb-3"
+                            ],
+                            "v": "1626286877605927:33862"
+                        }
+                    ]
+                },
+                {
+                    "k": "1626372830723476:23498",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1626372830515698:23385"
+                        },
+                        {
+                            "k": [
+                                "Component.Skin"
+                            ],
+                            "v": "1626372830713215:23496"
+                        },
+                        {
+                            "k": [
+                                "RightHandMesh.001"
+                            ],
+                            "v": "1626372830522664:23441"
+                        },
+                        {
+                            "k": [
+                                "RightHandMesh.001",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1626372830523064:23443"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.001"
+                            ],
+                            "v": "1626372830517843:23387"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.001",
+                                "wrist"
+                            ],
+                            "v": "1626372830518045:23389"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.001",
+                                "wrist",
+                                "wrist_to_index"
+                            ],
+                            "v": "1626372830519075:23401"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.001",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0"
+                            ],
+                            "v": "1626372830519262:23403"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.001",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1"
+                            ],
+                            "v": "1626372830519428:23405"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.001",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1",
+                                "index-2"
+                            ],
+                            "v": "1626372830519593:23407"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.001",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1",
+                                "index-2",
+                                "index-3"
+                            ],
+                            "v": "1626372830519757:23409"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.001",
+                                "wrist",
+                                "wrist_to_mid"
+                            ],
+                            "v": "1626372830519932:23411"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.001",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0"
+                            ],
+                            "v": "1626372830520122:23413"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.001",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1"
+                            ],
+                            "v": "1626372830520309:23415"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.001",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1",
+                                "mid-2"
+                            ],
+                            "v": "1626372830520475:23417"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.001",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1",
+                                "mid-2",
+                                "mid-3"
+                            ],
+                            "v": "1626372830520643:23419"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.001",
+                                "wrist",
+                                "wrist_to_pinky"
+                            ],
+                            "v": "1626372830521689:23431"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.001",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0"
+                            ],
+                            "v": "1626372830521868:23433"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.001",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1"
+                            ],
+                            "v": "1626372830522047:23435"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.001",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1",
+                                "pinky-2"
+                            ],
+                            "v": "1626372830522214:23437"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.001",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1",
+                                "pinky-2",
+                                "pinky-3"
+                            ],
+                            "v": "1626372830522380:23439"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.001",
+                                "wrist",
+                                "wrist_to_ring"
+                            ],
+                            "v": "1626372830520811:23421"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.001",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0"
+                            ],
+                            "v": "1626372830520978:23423"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.001",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1"
+                            ],
+                            "v": "1626372830521140:23425"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.001",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1",
+                                "ring-2"
+                            ],
+                            "v": "1626372830521309:23427"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.001",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1",
+                                "ring-2",
+                                "ring-3"
+                            ],
+                            "v": "1626372830521474:23429"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.001",
+                                "wrist",
+                                "wrist_to_thumb"
+                            ],
+                            "v": "1626372830518228:23391"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.001",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0"
+                            ],
+                            "v": "1626372830518402:23393"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.001",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1"
+                            ],
+                            "v": "1626372830518569:23395"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.001",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1",
+                                "thumb-2"
+                            ],
+                            "v": "1626372830518733:23397"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.001",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1",
+                                "thumb-2",
+                                "thumb-3"
+                            ],
+                            "v": "1626372830518902:23399"
+                        }
+                    ]
+                },
+                {
+                    "k": "1626372973059355:40986",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1626372973045483:40904"
+                        },
+                        {
+                            "k": [
+                                "Component.Skin"
+                            ],
+                            "v": "1626372973055821:40984"
+                        },
+                        {
+                            "k": [
+                                "RightHandMesh.002"
+                            ],
+                            "v": "1626372973054573:40970"
+                        },
+                        {
+                            "k": [
+                                "RightHandMesh.002",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1626372973054876:40972"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002"
+                            ],
+                            "v": "1626372973047645:40906"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist"
+                            ],
+                            "v": "1626372973047891:40908"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_index"
+                            ],
+                            "v": "1626372973049342:40922"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0"
+                            ],
+                            "v": "1626372973049542:40924"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1"
+                            ],
+                            "v": "1626372973049776:40926"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1",
+                                "index-2"
+                            ],
+                            "v": "1626372973050048:40928"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1",
+                                "index-2",
+                                "index-3"
+                            ],
+                            "v": "1626372973050342:40930"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1",
+                                "index-2",
+                                "index-3",
+                                "index-3_end"
+                            ],
+                            "v": "1626372973050655:40932"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_mid"
+                            ],
+                            "v": "1626372973050864:40934"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0"
+                            ],
+                            "v": "1626372973051058:40936"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1"
+                            ],
+                            "v": "1626372973051242:40938"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1",
+                                "mid-2"
+                            ],
+                            "v": "1626372973051430:40940"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1",
+                                "mid-2",
+                                "mid-3"
+                            ],
+                            "v": "1626372973051622:40942"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1",
+                                "mid-2",
+                                "mid-3",
+                                "mid-3_end"
+                            ],
+                            "v": "1626372973051816:40944"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_pinky"
+                            ],
+                            "v": "1626372973053188:40958"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0"
+                            ],
+                            "v": "1626372973053392:40960"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1"
+                            ],
+                            "v": "1626372973053588:40962"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1",
+                                "pinky-2"
+                            ],
+                            "v": "1626372973053784:40964"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1",
+                                "pinky-2",
+                                "pinky-3"
+                            ],
+                            "v": "1626372973053985:40966"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1",
+                                "pinky-2",
+                                "pinky-3",
+                                "pinky-3_end"
+                            ],
+                            "v": "1626372973054256:40968"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_ring"
+                            ],
+                            "v": "1626372973052019:40946"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0"
+                            ],
+                            "v": "1626372973052219:40948"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1"
+                            ],
+                            "v": "1626372973052413:40950"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1",
+                                "ring-2"
+                            ],
+                            "v": "1626372973052605:40952"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1",
+                                "ring-2",
+                                "ring-3"
+                            ],
+                            "v": "1626372973052795:40954"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1",
+                                "ring-2",
+                                "ring-3",
+                                "ring-3_end"
+                            ],
+                            "v": "1626372973052990:40956"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_thumb"
+                            ],
+                            "v": "1626372973048089:40910"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0"
+                            ],
+                            "v": "1626372973048278:40912"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1"
+                            ],
+                            "v": "1626372973048472:40914"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1",
+                                "thumb-2"
+                            ],
+                            "v": "1626372973048665:40916"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1",
+                                "thumb-2",
+                                "thumb-3"
+                            ],
+                            "v": "1626372973048912:40918"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig.002",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1",
+                                "thumb-2",
+                                "thumb-3",
+                                "thumb-3_end"
+                            ],
+                            "v": "1626372973049128:40920"
+                        }
+                    ]
+                },
+                {
+                    "k": "1628285936022754:25698",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1628285935810285:25641"
+                        },
+                        {
+                            "k": [
+                                "BONE1"
+                            ],
+                            "v": "1628285935811834:25643"
+                        },
+                        {
+                            "k": [
+                                "BONE1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1628285935812052:25645"
+                        }
+                    ]
+                },
+                {
+                    "k": "1628318381680202:365207",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1628318381666820:365177"
+                        },
+                        {
+                            "k": [
+                                "BONE-Joint"
+                            ],
+                            "v": "1628318381669699:365179"
+                        },
+                        {
+                            "k": [
+                                "BONE-Joint",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1628318381670054:365181"
+                        },
+                        {
+                            "k": [
+                                "BONE-Palm"
+                            ],
+                            "v": "1628318381670981:365193"
+                        },
+                        {
+                            "k": [
+                                "BONE-Palm",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1628318381671285:365195"
+                        }
+                    ]
+                },
+                {
+                    "k": "1628537116398634:382908",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1628537116388667:382878"
+                        },
+                        {
+                            "k": [
+                                "Cube.002"
+                            ],
+                            "v": "1628537116393352:382880"
+                        },
+                        {
+                            "k": [
+                                "Cube.002",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1628537116393651:382882"
+                        },
+                        {
+                            "k": [
+                                "Cube.003"
+                            ],
+                            "v": "1628537116394459:382894"
+                        },
+                        {
+                            "k": [
+                                "Cube.003",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1628537116394754:382896"
+                        }
+                    ]
+                },
+                {
+                    "k": "1630538667258064:155971",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1630538667205094:155859"
+                        },
+                        {
+                            "k": [
+                                "Component.Skin"
+                            ],
+                            "v": "1630538667251864:155969"
+                        },
+                        {
+                            "k": [
+                                "LeftHandMesh"
+                            ],
+                            "v": "1630538667249714:155955"
+                        },
+                        {
+                            "k": [
+                                "LeftHandMesh",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1630538667250613:155957"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig"
+                            ],
+                            "v": "1630538667208272:155861"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist"
+                            ],
+                            "v": "1630538667209201:155863"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_index"
+                            ],
+                            "v": "1630538667217593:155883"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0"
+                            ],
+                            "v": "1630538667218498:155885"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1"
+                            ],
+                            "v": "1630538667219488:155887"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1",
+                                "index-2"
+                            ],
+                            "v": "1630538667220388:155889"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1",
+                                "index-2",
+                                "index-3"
+                            ],
+                            "v": "1630538667221259:155891"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1",
+                                "index-2",
+                                "index-3",
+                                "index-3_end"
+                            ],
+                            "v": "1630538667222101:155893"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1",
+                                "index-2",
+                                "index-3",
+                                "index-3_end",
+                                "index-3_end_end"
+                            ],
+                            "v": "1630538667222950:155895"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1",
+                                "index-2",
+                                "index-3",
+                                "index-3_end",
+                                "index-3_end_end",
+                                "index-3_end_end_end"
+                            ],
+                            "v": "1630538667223785:155897"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1",
+                                "index-2",
+                                "index-3",
+                                "index-3_end",
+                                "index-3_end_end",
+                                "index-3_end_end_end",
+                                "index-3_end_end_end_end"
+                            ],
+                            "v": "1630538667224621:155899"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_mid"
+                            ],
+                            "v": "1630538667225481:155901"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0"
+                            ],
+                            "v": "1630538667226320:155903"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1"
+                            ],
+                            "v": "1630538667227150:155905"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1",
+                                "mid-2"
+                            ],
+                            "v": "1630538667227981:155907"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1",
+                                "mid-2",
+                                "mid-3"
+                            ],
+                            "v": "1630538667228817:155909"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1",
+                                "mid-2",
+                                "mid-3",
+                                "mid-3_end"
+                            ],
+                            "v": "1630538667229647:155911"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1",
+                                "mid-2",
+                                "mid-3",
+                                "mid-3_end",
+                                "mid-3_end_end"
+                            ],
+                            "v": "1630538667230498:155913"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1",
+                                "mid-2",
+                                "mid-3",
+                                "mid-3_end",
+                                "mid-3_end_end",
+                                "mid-3_end_end_end"
+                            ],
+                            "v": "1630538667231343:155915"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1",
+                                "mid-2",
+                                "mid-3",
+                                "mid-3_end",
+                                "mid-3_end_end",
+                                "mid-3_end_end_end",
+                                "mid-3_end_end_end_end"
+                            ],
+                            "v": "1630538667232208:155917"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_pinky"
+                            ],
+                            "v": "1630538667241576:155937"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0"
+                            ],
+                            "v": "1630538667242540:155939"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1"
+                            ],
+                            "v": "1630538667243490:155941"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1",
+                                "pinky-2"
+                            ],
+                            "v": "1630538667244400:155943"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1",
+                                "pinky-2",
+                                "pinky-3"
+                            ],
+                            "v": "1630538667245320:155945"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1",
+                                "pinky-2",
+                                "pinky-3",
+                                "pinky-3_end"
+                            ],
+                            "v": "1630538667246192:155947"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1",
+                                "pinky-2",
+                                "pinky-3",
+                                "pinky-3_end",
+                                "pinky-3_end_end"
+                            ],
+                            "v": "1630538667247091:155949"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1",
+                                "pinky-2",
+                                "pinky-3",
+                                "pinky-3_end",
+                                "pinky-3_end_end",
+                                "pinky-3_end_end_end"
+                            ],
+                            "v": "1630538667247945:155951"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1",
+                                "pinky-2",
+                                "pinky-3",
+                                "pinky-3_end",
+                                "pinky-3_end_end",
+                                "pinky-3_end_end_end",
+                                "pinky-3_end_end_end_end"
+                            ],
+                            "v": "1630538667248798:155953"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_ring"
+                            ],
+                            "v": "1630538667233117:155919"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0"
+                            ],
+                            "v": "1630538667234016:155921"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1"
+                            ],
+                            "v": "1630538667235001:155923"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1",
+                                "ring-2"
+                            ],
+                            "v": "1630538667235956:155925"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1",
+                                "ring-2",
+                                "ring-3"
+                            ],
+                            "v": "1630538667237008:155927"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1",
+                                "ring-2",
+                                "ring-3",
+                                "ring-3_end"
+                            ],
+                            "v": "1630538667237985:155929"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1",
+                                "ring-2",
+                                "ring-3",
+                                "ring-3_end",
+                                "ring-3_end_end"
+                            ],
+                            "v": "1630538667238874:155931"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1",
+                                "ring-2",
+                                "ring-3",
+                                "ring-3_end",
+                                "ring-3_end_end",
+                                "ring-3_end_end_end"
+                            ],
+                            "v": "1630538667239748:155933"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1",
+                                "ring-2",
+                                "ring-3",
+                                "ring-3_end",
+                                "ring-3_end_end",
+                                "ring-3_end_end_end",
+                                "ring-3_end_end_end_end"
+                            ],
+                            "v": "1630538667240641:155935"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_thumb"
+                            ],
+                            "v": "1630538667210037:155865"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0"
+                            ],
+                            "v": "1630538667210867:155867"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1"
+                            ],
+                            "v": "1630538667211715:155869"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1",
+                                "thumb-2"
+                            ],
+                            "v": "1630538667212532:155871"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1",
+                                "thumb-2",
+                                "thumb-3"
+                            ],
+                            "v": "1630538667213349:155873"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1",
+                                "thumb-2",
+                                "thumb-3",
+                                "thumb-3_end"
+                            ],
+                            "v": "1630538667214188:155875"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1",
+                                "thumb-2",
+                                "thumb-3",
+                                "thumb-3_end",
+                                "thumb-3_end_end"
+                            ],
+                            "v": "1630538667215026:155877"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1",
+                                "thumb-2",
+                                "thumb-3",
+                                "thumb-3_end",
+                                "thumb-3_end_end",
+                                "thumb-3_end_end_end"
+                            ],
+                            "v": "1630538667215869:155879"
+                        },
+                        {
+                            "k": [
+                                "LeftHandRig",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1",
+                                "thumb-2",
+                                "thumb-3",
+                                "thumb-3_end",
+                                "thumb-3_end_end",
+                                "thumb-3_end_end_end",
+                                "thumb-3_end_end_end_end"
+                            ],
+                            "v": "1630538667216707:155881"
+                        }
+                    ]
+                },
+                {
+                    "k": "1630538668664302:161031",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1630538668613602:160919"
+                        },
+                        {
+                            "k": [
+                                "Component.Skin"
+                            ],
+                            "v": "1630538668660000:161029"
+                        },
+                        {
+                            "k": [
+                                "RightHandMesh"
+                            ],
+                            "v": "1630538668657932:161015"
+                        },
+                        {
+                            "k": [
+                                "RightHandMesh",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1630538668658813:161017"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig"
+                            ],
+                            "v": "1630538668616794:160921"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist"
+                            ],
+                            "v": "1630538668617665:160923"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_index"
+                            ],
+                            "v": "1630538668626301:160943"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0"
+                            ],
+                            "v": "1630538668627209:160945"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1"
+                            ],
+                            "v": "1630538668628127:160947"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1",
+                                "index-2"
+                            ],
+                            "v": "1630538668628984:160949"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1",
+                                "index-2",
+                                "index-3"
+                            ],
+                            "v": "1630538668629824:160951"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1",
+                                "index-2",
+                                "index-3",
+                                "index-3_end"
+                            ],
+                            "v": "1630538668630667:160953"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1",
+                                "index-2",
+                                "index-3",
+                                "index-3_end",
+                                "index-3_end_end"
+                            ],
+                            "v": "1630538668631540:160955"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1",
+                                "index-2",
+                                "index-3",
+                                "index-3_end",
+                                "index-3_end_end",
+                                "index-3_end_end_end"
+                            ],
+                            "v": "1630538668632390:160957"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_index",
+                                "index-0",
+                                "index-1",
+                                "index-2",
+                                "index-3",
+                                "index-3_end",
+                                "index-3_end_end",
+                                "index-3_end_end_end",
+                                "index-3_end_end_end_end"
+                            ],
+                            "v": "1630538668633282:160959"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_mid"
+                            ],
+                            "v": "1630538668634155:160961"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0"
+                            ],
+                            "v": "1630538668634986:160963"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1"
+                            ],
+                            "v": "1630538668635913:160965"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1",
+                                "mid-2"
+                            ],
+                            "v": "1630538668636808:160967"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1",
+                                "mid-2",
+                                "mid-3"
+                            ],
+                            "v": "1630538668637726:160969"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1",
+                                "mid-2",
+                                "mid-3",
+                                "mid-3_end"
+                            ],
+                            "v": "1630538668638659:160971"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1",
+                                "mid-2",
+                                "mid-3",
+                                "mid-3_end",
+                                "mid-3_end_end"
+                            ],
+                            "v": "1630538668639947:160973"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1",
+                                "mid-2",
+                                "mid-3",
+                                "mid-3_end",
+                                "mid-3_end_end",
+                                "mid-3_end_end_end"
+                            ],
+                            "v": "1630538668640780:160975"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_mid",
+                                "mid-0",
+                                "mid-1",
+                                "mid-2",
+                                "mid-3",
+                                "mid-3_end",
+                                "mid-3_end_end",
+                                "mid-3_end_end_end",
+                                "mid-3_end_end_end_end"
+                            ],
+                            "v": "1630538668641634:160977"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_pinky"
+                            ],
+                            "v": "1630538668650053:160997"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0"
+                            ],
+                            "v": "1630538668650917:160999"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1"
+                            ],
+                            "v": "1630538668651782:161001"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1",
+                                "pinky-2"
+                            ],
+                            "v": "1630538668652620:161003"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1",
+                                "pinky-2",
+                                "pinky-3"
+                            ],
+                            "v": "1630538668653467:161005"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1",
+                                "pinky-2",
+                                "pinky-3",
+                                "pinky-3_end"
+                            ],
+                            "v": "1630538668654465:161007"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1",
+                                "pinky-2",
+                                "pinky-3",
+                                "pinky-3_end",
+                                "pinky-3_end_end"
+                            ],
+                            "v": "1630538668655339:161009"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1",
+                                "pinky-2",
+                                "pinky-3",
+                                "pinky-3_end",
+                                "pinky-3_end_end",
+                                "pinky-3_end_end_end"
+                            ],
+                            "v": "1630538668656190:161011"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_pinky",
+                                "pinky-0",
+                                "pinky-1",
+                                "pinky-2",
+                                "pinky-3",
+                                "pinky-3_end",
+                                "pinky-3_end_end",
+                                "pinky-3_end_end_end",
+                                "pinky-3_end_end_end_end"
+                            ],
+                            "v": "1630538668657043:161013"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_ring"
+                            ],
+                            "v": "1630538668642508:160979"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0"
+                            ],
+                            "v": "1630538668643349:160981"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1"
+                            ],
+                            "v": "1630538668644222:160983"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1",
+                                "ring-2"
+                            ],
+                            "v": "1630538668645055:160985"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1",
+                                "ring-2",
+                                "ring-3"
+                            ],
+                            "v": "1630538668645900:160987"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1",
+                                "ring-2",
+                                "ring-3",
+                                "ring-3_end"
+                            ],
+                            "v": "1630538668646738:160989"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1",
+                                "ring-2",
+                                "ring-3",
+                                "ring-3_end",
+                                "ring-3_end_end"
+                            ],
+                            "v": "1630538668647565:160991"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1",
+                                "ring-2",
+                                "ring-3",
+                                "ring-3_end",
+                                "ring-3_end_end",
+                                "ring-3_end_end_end"
+                            ],
+                            "v": "1630538668648388:160993"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_ring",
+                                "ring-0",
+                                "ring-1",
+                                "ring-2",
+                                "ring-3",
+                                "ring-3_end",
+                                "ring-3_end_end",
+                                "ring-3_end_end_end",
+                                "ring-3_end_end_end_end"
+                            ],
+                            "v": "1630538668649209:160995"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_thumb"
+                            ],
+                            "v": "1630538668618509:160925"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0"
+                            ],
+                            "v": "1630538668619341:160927"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1"
+                            ],
+                            "v": "1630538668620180:160929"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1",
+                                "thumb-2"
+                            ],
+                            "v": "1630538668621011:160931"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1",
+                                "thumb-2",
+                                "thumb-3"
+                            ],
+                            "v": "1630538668621919:160933"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1",
+                                "thumb-2",
+                                "thumb-3",
+                                "thumb-3_end"
+                            ],
+                            "v": "1630538668622802:160935"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1",
+                                "thumb-2",
+                                "thumb-3",
+                                "thumb-3_end",
+                                "thumb-3_end_end"
+                            ],
+                            "v": "1630538668623655:160937"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1",
+                                "thumb-2",
+                                "thumb-3",
+                                "thumb-3_end",
+                                "thumb-3_end_end",
+                                "thumb-3_end_end_end"
+                            ],
+                            "v": "1630538668624515:160939"
+                        },
+                        {
+                            "k": [
+                                "RightHandRig",
+                                "wrist",
+                                "wrist_to_thumb",
+                                "thumb-0",
+                                "thumb-1",
+                                "thumb-2",
+                                "thumb-3",
+                                "thumb-3_end",
+                                "thumb-3_end_end",
+                                "thumb-3_end_end_end",
+                                "thumb-3_end_end_end_end"
+                            ],
+                            "v": "1630538668625388:160941"
+                        }
+                    ]
+                },
+                {
+                    "k": "1677382386287862:523790",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1677382386274636:523758"
+                        },
+                        {
+                            "k": [
+                                "Ring_P4"
+                            ],
+                            "v": "1677382386279025:523760"
+                        },
+                        {
+                            "k": [
+                                "Ring_P4",
+                                "diamant"
+                            ],
+                            "v": "1677382386281280:523764"
+                        },
+                        {
+                            "k": [
+                                "Ring_P4",
+                                "diamant",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1677382386283502:523766"
+                        },
+                        {
+                            "k": [
+                                "Ring_P4",
+                                "metal"
+                            ],
+                            "v": "1677382386284571:523777"
+                        },
+                        {
+                            "k": [
+                                "Ring_P4",
+                                "metal",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1677382386286724:523779"
+                        }
+                    ]
+                }
+            ]
+        },
+        "ObjectTracking3DController": {
+            "hand_tracking_mode": "0"
+        }
+    },
+    "templateName": "3D Hand Tracking",
+    "templateUrl": "https:\/\/downloads.ctfassets.net\/xyb83mibqg29\/aj9ANQ8ftrpnfXbWVN0bS\/925e18d051cf3c31ced2626fe29d9ff4\/3D_Hand_Tracking.zip"
+}

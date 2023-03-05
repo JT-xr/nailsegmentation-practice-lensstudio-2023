@@ -1,0 +1,20 @@
+{
+    "1675109059699534:1719": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Models/LeftHandModel/Materials"
+            }
+        }
+    },
+    "1675109059699585:1885": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675109059699534:1719",
+            "resources": []
+        }
+    }
+}

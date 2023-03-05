@@ -1,0 +1,43 @@
+{
+    "1677380686705167:370555": {
+        "IFileManager": {
+            "path": "Files/File_1677380686705167_370555.jpg"
+        }
+    },
+    "1677380686705834:370556": {
+        "IResourceController": {
+            "name": "ramp",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1677380686706054:370557",
+            "fileId": "1677380686705167:370555",
+            "originalId": "1677380686706247:370562",
+            "publicId": "1677380686709421:370570",
+            "expected_hash": "79349bf2203a1404a3e2d7aa715feb52",
+            "additional": {
+                "originHash": "79349bf2203a1404a3e2d7aa715feb52",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1677380686706054:370557",
+            "name": "Files/File_1677380686705167_370555.jpg",
+            "flags": 1
+        }
+    },
+    "1677380686706247:370562": {
+        "IFileManager": {
+            "path": "Files/File_1677380686706247_370562.jpg"
+        }
+    },
+    "1677380686709421:370570": {
+        "IResourceController": {
+            "public": {
+                "path": "NailsTryOnResources/Textures/ramp.jpg",
+                "hash": "79349bf2203a1404a3e2d7aa715feb52"
+            }
+        }
+    }
+}

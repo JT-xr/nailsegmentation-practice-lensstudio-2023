@@ -1,0 +1,39 @@
+{
+    "1677380688381570:371025": {
+        "IFileManager": {
+            "path": "Files/File_1677380688381570_371025"
+        }
+    },
+    "1677380688382339:371026": {
+        "IResourceController": {
+            "name": "RefinedSegmentation",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1677380688382342:371027",
+            "fileId": "1677380688381570:371025",
+            "originalId": "1677380688410853:371031",
+            "publicId": "1677380688545652:371038",
+            "expected_hash": "ccfe1c0d6ff7339876b2689083b21552"
+        },
+        "IResourceManager": {
+            "uid": "1677380688382342:371027",
+            "name": "Files/File_1677380688381570_371025",
+            "flags": 1
+        }
+    },
+    "1677380688410853:371031": {
+        "IFileManager": {
+            "path": "Files/File_1677380688410853_371031.lsmat"
+        }
+    },
+    "1677380688545652:371038": {
+        "IResourceController": {
+            "public": {
+                "path": "NailsTryOnResources/Materials/RefinedSegmentation.lsmat",
+                "hash": "7751a1476fcfe4c50fec6c557d32d3d2"
+            }
+        }
+    }
+}

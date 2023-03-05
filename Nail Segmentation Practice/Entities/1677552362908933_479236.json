@@ -1,0 +1,17 @@
+{
+    "1677552362908933:479236": {
+        "IResourceController": {
+            "name": "Upper Garment Segmentation",
+            "type": 1,
+            "subtype": 14,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1677552362907290:479230"
+        },
+        "IResourceManager": {
+            "uid": "1677552362907290:479230",
+            "name": "Upper Garment Segmentation",
+            "flags": 0
+        }
+    }
+}

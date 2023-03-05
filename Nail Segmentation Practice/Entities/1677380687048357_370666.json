@@ -1,0 +1,25 @@
+{
+    "1677380687048357:370666": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1677380687048543:370667",
+            "resources": [
+                "1677380687048817:370668",
+                "1677380687993437:370871",
+                "1677380688231719:370930",
+                "1677380688382339:371026"
+            ]
+        }
+    },
+    "1677380687048543:370667": {
+        "IResourceController": {
+            "public": {
+                "path": "NailsTryOnResources/Materials"
+            }
+        }
+    }
+}

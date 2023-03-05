@@ -1,0 +1,25 @@
+{
+    "1677380687049139:370670": {
+        "IResourceController": {
+            "name": "Particles 2",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1677380687049258:370671",
+            "resources": [
+                "1677380686940619:370652",
+                "1677380687135799:370793",
+                "1677380687414000:370815",
+                "1677380687696678:370835"
+            ]
+        }
+    },
+    "1677380687049258:370671": {
+        "IResourceController": {
+            "public": {
+                "path": "NailsTryOnResources/Materials/VFX Resources/Particles 2"
+            }
+        }
+    }
+}

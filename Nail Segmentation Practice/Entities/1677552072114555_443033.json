@@ -1,0 +1,22 @@
+{
+    "1677552072114555:443033": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1677552072114734:443035",
+            "resources": [
+                "1677552072110543:443018"
+            ]
+        }
+    },
+    "1677552072114734:443035": {
+        "IResourceController": {
+            "public": {
+                "path": "Smoke VFX Resources/Textures"
+            }
+        }
+    }
+}

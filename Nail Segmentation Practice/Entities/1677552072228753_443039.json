@@ -1,0 +1,42 @@
+{
+    "1677552072227898:443038": {
+        "IFileManager": {
+            "path": "Files/File_1677552072227898_443038"
+        }
+    },
+    "1677552072228753:443039": {
+        "IResourceController": {
+            "name": "smoke_vfx",
+            "type": 23,
+            "subtype": 0,
+            "dependency": 2,
+            "hidden": false,
+            "uid": "1677552072228756:443040",
+            "fileId": "1677552072227898:443038",
+            "originalId": "1677552072265026:443047",
+            "publicId": "1677552072266830:443050",
+            "expected_hash": "0c560554eaff338f231581bafad4c122",
+            "resources": [
+                "1677552072574371:443228"
+            ]
+        },
+        "IResourceManager": {
+            "uid": "1677552072228756:443040",
+            "name": "Files/File_1677552072227898_443038",
+            "flags": 1
+        }
+    },
+    "1677552072265026:443047": {
+        "IFileManager": {
+            "path": "Files/File_1677552072265026_443047.lsvfx"
+        }
+    },
+    "1677552072266830:443050": {
+        "IResourceController": {
+            "public": {
+                "path": "Smoke VFX Resources/VFX/smoke_vfx.lsvfx",
+                "hash": "db6617b9abcb0146bf4ab728dabd148b"
+            }
+        }
+    }
+}

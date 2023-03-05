@@ -1,0 +1,24 @@
+{
+    "1677380686702463:370542": {
+        "IResourceController": {
+            "name": "NailsTryOnResources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1677380686702593:370543",
+            "resources": [
+                "1677380686702922:370544",
+                "1677380686708841:370568",
+                "1677380687048357:370666"
+            ]
+        }
+    },
+    "1677380686702593:370543": {
+        "IResourceController": {
+            "public": {
+                "path": "NailsTryOnResources"
+            }
+        }
+    }
+}

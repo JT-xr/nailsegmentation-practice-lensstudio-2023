@@ -1,0 +1,26 @@
+{
+    "1677380686708841:370568": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1677380686708994:370569",
+            "resources": [
+                "1677380686705834:370556",
+                "1677380686712973:370582",
+                "1677380686716279:370599",
+                "1677380686855999:370631",
+                "1677464966424311:516281"
+            ]
+        }
+    },
+    "1677380686708994:370569": {
+        "IResourceController": {
+            "public": {
+                "path": "NailsTryOnResources/Textures"
+            }
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "1677380686855401:370630": {
+        "IFileManager": {
+            "path": "Files/File_1677380686855401_370630.jpg"
+        }
+    },
+    "1677380686855999:370631": {
+        "IResourceController": {
+            "name": "flipbook_atlas",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1677380686856073:370632",
+            "fileId": "1677380686855401:370630",
+            "originalId": "1677380686856284:370637",
+            "publicId": "1677380686862071:370646",
+            "expected_hash": "485040d4f5f15275815e62293e7c9254",
+            "additional": {
+                "originHash": "485040d4f5f15275815e62293e7c9254",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1677380686856073:370632",
+            "name": "Files/File_1677380686855401_370630.jpg",
+            "flags": 1
+        }
+    },
+    "1677380686856073:370632": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "485040d4f5f15275815e62293e7c9254"
+                    },
+                    "v": "1677380693374987:372082"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "348651",
+                "compressedSize": "12609",
+                "extension": "jpg",
+                "originalRAM": "262144",
+                "originalSize": "12609",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1677380686859735:370645"
+        }
+    },
+    "1677380686856284:370637": {
+        "IFileManager": {
+            "path": "Files/File_1677380686856284_370637.jpg"
+        }
+    },
+    "1677380686859735:370645": {
+        "IFileManager": {
+            "path": "Files/File_1677380686859735_370645.jpg"
+        }
+    },
+    "1677380686862071:370646": {
+        "IResourceController": {
+            "public": {
+                "path": "NailsTryOnResources/Textures/flipbook_atlas.jpg",
+                "hash": "485040d4f5f15275815e62293e7c9254"
+            }
+        }
+    },
+    "1677380693374987:372082": {
+        "IFileManager": {
+            "path": "Files/File_1677380693374987_372082.jpg"
+        }
+    }
+}
